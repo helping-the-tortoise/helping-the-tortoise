@@ -9,6 +9,8 @@ defaultContentLanguage = "en"
 defaultContentLanguageInSubdir = true
 #theme = "hermit-v2"
 
+publishDir = "docs"
+
 #[languages]
 #  [languages.en]
 #    title = 'CHANGE ME'

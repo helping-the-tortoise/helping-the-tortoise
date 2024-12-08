@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title></title>
+    <link>//localhost:1313/en/</link>
+    <description>Recent content on </description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <copyright>CHANGE ME</copyright>
+    <atom:link href="//localhost:1313/en/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>//localhost:1313/en/about-hugo/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/en/about-hugo/</guid>
+      <description>&lt;p&gt;Was not expecting this. Will take some time. Keep brief. Perhaps complete after branding is in a good state.&lt;/p&gt;&#xA;&lt;p&gt;Ch ch ch changes&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>//localhost:1313/en/posts/000001/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/en/posts/000001/</guid>
+      <description>&lt;h1 id=&#34;begin-the-begin&#34;&gt;Begin the Begin&lt;/h1&gt;&#xA;&lt;p&gt;After all everyone needs a little R.E.M. to make dreams happen.&lt;/p&gt;&#xA;&lt;p&gt;So opens what may in retrospect be a new chapter. Fingers crossed. Self chastised for superstition.&lt;/p&gt;&#xA;&lt;h2 id=&#34;check-check-one-two&#34;&gt;Check. Check one, two.&lt;/h2&gt;&#xA;&lt;p&gt;Coffee? Check.&lt;/p&gt;&#xA;&lt;p&gt;Music? Check.&lt;/p&gt;&#xA;&lt;p&gt;LLM? Check.&lt;/p&gt;&#xA;&lt;p&gt;Chuck? Check.&lt;/p&gt;&#xA;&lt;p&gt;Sipping coffee. Listening to WKEXP. Staring at a prompt window. Instructional video from Network Chuck queued. Time to make a blog.&lt;/p&gt;&#xA;&lt;p&gt;Don&amp;rsquo;t get it twisted: the generative AI is just for brain-storming. For the most part, this will be a locally-sourced, human-brain to blog-table enterprise. Minimally cybernetically enhanced. More bionic, less borg.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>//localhost:1313/en/posts/000002/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/en/posts/000002/</guid>
+      <description>&lt;p&gt;DELETE ME! Just a test of entry 2&lt;/p&gt;&#xA;&lt;p&gt;!&lt;img src=&#34;//localhost:1313/images/TestPNG.png&#34; alt=&#34;Image Description&#34;&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;!&lt;img src=&#34;//localhost:1313/images/htt_Pre_Brainstorm.svg&#34; alt=&#34;Image Description&#34;&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>//localhost:1313/en/posts/000003/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/en/posts/000003/</guid>
+      <description>&lt;p&gt;entry 3&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>//localhost:1313/en/posts/000004/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/en/posts/000004/</guid>
+      <description>&lt;p&gt;entry 4&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>//localhost:1313/en/posts/000005/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/en/posts/000005/</guid>
+      <description>&lt;p&gt;entry 5&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>//localhost:1313/en/posts/000006/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/en/posts/000006/</guid>
+      <description>&lt;p&gt;entry 6&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
