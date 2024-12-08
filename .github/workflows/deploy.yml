@@ -3,18 +3,21 @@ name: Deploy GitHub Pages
 on:
   push:
     branches:
-      - master  # Replace 'main' with your branch name if different
+      - master  # Trigger the workflow when changes are pushed to the 'main' branch
 
 jobs:
   deploy:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-latest  # Use the latest Ubuntu environment for the job
 
     steps:
     - name: Checkout code
-      uses: actions/checkout@v3
+      uses: actions/checkout@v3  # Checkout the repository code
 
     - name: Deploy to GitHub Pages
-      uses: peaceiris/actions-gh-pages@v3
+      uses: peaceiris/actions-gh-pages@v3  # Action to deploy to GitHub Pages
       with:
-        github_token: ${{ secrets.GITHUB_TOKEN }}
-        publish_dir: ./public
+        github_token: ${{ secrets.GITHUB_TOKEN }}  # Use the automatically generated GitHub token for authentication
+        publish_dir: ./public  # Specify the directory containing the site files (e.g., 'public')
+        target_branch: master  # This specifies that the `gh-pages` branch will be used for deployment
+        # Ensure that the contents of the public folder are output to the docs directory on GitHub Pages
+        docs_dir: docs  # This line will deploy to a folder named 'docs' instead of the default location
