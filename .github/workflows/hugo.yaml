@@ -35,7 +35,8 @@ jobs:
       HUGO_VERSION: 0.137.3
     steps:
       - name: Check Hugo Version
-        run: echo "Hugo version: $HUGO_VERSION"
+        run: |
+          echo "Hugo version: $HUGO_VERSION"
       - name: Install Hugo CLI
         run: |
           # Debugging the URL for the Hugo version
