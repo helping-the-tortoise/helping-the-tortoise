@@ -1,54 +1,93 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Posts on </title>
-    <link>helping-the-tortoise.github.io/en/posts/</link>
-    <description>Recent content in Posts on </description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <copyright>CHANGE ME</copyright>
-    <atom:link href="helping-the-tortoise.github.io/en/posts/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title></title>
-      <link>helping-the-tortoise.github.io/en/posts/000001/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>helping-the-tortoise.github.io/en/posts/000001/</guid>
-      <description>&lt;h1 id=&#34;begin-the-begin&#34;&gt;Begin the Begin&lt;/h1&gt;&#xA;&lt;p&gt;After all everyone needs a little R.E.M. to make dreams happen.&lt;/p&gt;&#xA;&lt;p&gt;So opens what may in retrospect be a new chapter. Fingers crossed. Self chastised for superstition.&lt;/p&gt;&#xA;&lt;h2 id=&#34;check-check-one-two&#34;&gt;Check. Check one, two.&lt;/h2&gt;&#xA;&lt;p&gt;Coffee? Check.&lt;/p&gt;&#xA;&lt;p&gt;Music? Check.&lt;/p&gt;&#xA;&lt;p&gt;LLM? Check.&lt;/p&gt;&#xA;&lt;p&gt;Chuck? Check.&lt;/p&gt;&#xA;&lt;p&gt;Sipping coffee. Listening to WKEXP. Staring at a prompt window. Instructional video from Network Chuck queued. Time to make a blog.&lt;/p&gt;&#xA;&lt;p&gt;Don&amp;rsquo;t get it twisted: the generative AI is just for brain-storming. For the most part, this will be a locally-sourced, human-brain to blog-table enterprise. Minimally cybernetically enhanced. More bionic, less borg.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title></title>
-      <link>helping-the-tortoise.github.io/en/posts/000002/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>helping-the-tortoise.github.io/en/posts/000002/</guid>
-      <description>&lt;p&gt;DELETE ME! Just a test of entry 2&lt;/p&gt;&#xA;&lt;p&gt;!&lt;img src=&#34;helping-the-tortoise.github.io/images/TestPNG.png&#34; alt=&#34;Image Description&#34;&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;!&lt;img src=&#34;helping-the-tortoise.github.io/images/htt_Pre_Brainstorm.svg&#34; alt=&#34;Image Description&#34;&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title></title>
-      <link>helping-the-tortoise.github.io/en/posts/000003/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>helping-the-tortoise.github.io/en/posts/000003/</guid>
-      <description>&lt;p&gt;entry 3&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title></title>
-      <link>helping-the-tortoise.github.io/en/posts/000004/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>helping-the-tortoise.github.io/en/posts/000004/</guid>
-      <description>&lt;p&gt;entry 4&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title></title>
-      <link>helping-the-tortoise.github.io/en/posts/000005/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>helping-the-tortoise.github.io/en/posts/000005/</guid>
-      <description>&lt;p&gt;entry 5&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title></title>
-      <link>helping-the-tortoise.github.io/en/posts/000006/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>helping-the-tortoise.github.io/en/posts/000006/</guid>
-      <description>&lt;p&gt;entry 6&lt;/p&gt;</description>
-    </item>
-  </channel>
+	<channel>
+		<title>Posts on </title>
+		<link>http://localhost:1313/blog/en/posts/</link>
+		<description>Recent content in Posts on </description>
+		<generator>Hugo -- gohugo.io</generator>
+		<language>en-us</language>
+		<copyright>CHANGE ME</copyright>
+		<atom:link href="http://localhost:1313/blog/en/posts/index.xml" rel="self" type="application/rss+xml" />
+		
+		<item>
+			<title></title>
+			<link>http://localhost:1313/blog/en/posts/000001/</link>
+			<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+			
+			<guid>http://localhost:1313/blog/en/posts/000001/</guid>
+			<description><![CDATA[%!s(<nil>)]]></description>
+			<content type="html"><![CDATA[<h1 id="begin-the-begin">Begin the Begin</h1>
+<p>After all everyone needs a little R.E.M. to make dreams happen.</p>
+<p>So opens what may in retrospect be a new chapter. Fingers crossed. Self chastised for superstition.</p>
+<h2 id="check-check-one-two">Check. Check one, two.</h2>
+<p>Coffee? Check.</p>
+<p>Music? Check.</p>
+<p>LLM? Check.</p>
+<p>Chuck? Check.</p>
+<p>Sipping coffee. Listening to WKEXP. Staring at a prompt window. Instructional video from Network Chuck queued. Time to make a blog.</p>
+<p>Don&rsquo;t get it twisted: the generative AI is just for brain-storming. For the most part, this will be a locally-sourced, human-brain to blog-table enterprise. Minimally cybernetically enhanced. More bionic, less borg.</p>
+<p>Frankly, I wouldn&rsquo;t use the LLM for this project at all, but over the course of my life I have found that what rings pleasantly in my ears tends not to have mass-appeal. Not that I am expecting any sort of sizeable audience, but, you know, somebody in the house to attend the performance would be nice. Thus the Large Language Model branding assistant.</p>
+<p>Perhaps I just want to be able to blame HAL/Jarvis/Deep Thought if this goes poorly. Which reminds me: Towel? Check.</p>
+<p>Next entry should be on GitHub. Time to git gud. ;)</p>
+]]></content>
+		</item>
+		
+		<item>
+			<title></title>
+			<link>http://localhost:1313/blog/en/posts/000002/</link>
+			<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+			
+			<guid>http://localhost:1313/blog/en/posts/000002/</guid>
+			<description><![CDATA[%!s(<nil>)]]></description>
+			<content type="html"><![CDATA[<p>DELETE ME! Just a test of entry 2</p>
+<p>!<img src="/images/TestPNG.png" alt="Image Description"></p>
+<hr>
+<p>!<img src="/images/htt_Pre_Brainstorm.svg" alt="Image Description"></p>
+]]></content>
+		</item>
+		
+		<item>
+			<title></title>
+			<link>http://localhost:1313/blog/en/posts/000003/</link>
+			<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+			
+			<guid>http://localhost:1313/blog/en/posts/000003/</guid>
+			<description><![CDATA[%!s(<nil>)]]></description>
+			<content type="html"><![CDATA[<p>entry 3</p>
+]]></content>
+		</item>
+		
+		<item>
+			<title></title>
+			<link>http://localhost:1313/blog/en/posts/000004/</link>
+			<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+			
+			<guid>http://localhost:1313/blog/en/posts/000004/</guid>
+			<description><![CDATA[%!s(<nil>)]]></description>
+			<content type="html"><![CDATA[<p>entry 4</p>
+]]></content>
+		</item>
+		
+		<item>
+			<title></title>
+			<link>http://localhost:1313/blog/en/posts/000005/</link>
+			<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+			
+			<guid>http://localhost:1313/blog/en/posts/000005/</guid>
+			<description><![CDATA[%!s(<nil>)]]></description>
+			<content type="html"><![CDATA[<p>entry 5</p>
+]]></content>
+		</item>
+		
+		<item>
+			<title></title>
+			<link>http://localhost:1313/blog/en/posts/000006/</link>
+			<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+			
+			<guid>http://localhost:1313/blog/en/posts/000006/</guid>
+			<description><![CDATA[%!s(<nil>)]]></description>
+			<content type="html"><![CDATA[<p>entry 6</p>
+]]></content>
+		</item>
+		
+	</channel>
 </rss>
