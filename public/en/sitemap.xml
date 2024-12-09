@@ -2,24 +2,24 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/blog/en/</loc>
+    <loc>https://helping-the-tortoise.github.io/blog/en/</loc>
   </url><url>
-    <loc>http://localhost:1313/blog/en/about-hugo/</loc>
+    <loc>https://helping-the-tortoise.github.io/blog/en/about-hugo/</loc>
   </url><url>
-    <loc>http://localhost:1313/blog/en/posts/000001/</loc>
+    <loc>https://helping-the-tortoise.github.io/blog/en/posts/000001/</loc>
   </url><url>
-    <loc>http://localhost:1313/blog/en/posts/000002/</loc>
+    <loc>https://helping-the-tortoise.github.io/blog/en/posts/000002/</loc>
   </url><url>
-    <loc>http://localhost:1313/blog/en/posts/000003/</loc>
+    <loc>https://helping-the-tortoise.github.io/blog/en/posts/000003/</loc>
   </url><url>
-    <loc>http://localhost:1313/blog/en/posts/000004/</loc>
+    <loc>https://helping-the-tortoise.github.io/blog/en/posts/000004/</loc>
   </url><url>
-    <loc>http://localhost:1313/blog/en/posts/000005/</loc>
+    <loc>https://helping-the-tortoise.github.io/blog/en/posts/000005/</loc>
   </url><url>
-    <loc>http://localhost:1313/blog/en/posts/000006/</loc>
+    <loc>https://helping-the-tortoise.github.io/blog/en/posts/000006/</loc>
   </url><url>
-    <loc>http://localhost:1313/blog/en/posts/</loc>
+    <loc>https://helping-the-tortoise.github.io/blog/en/posts/</loc>
   </url><url>
-    <loc>http://localhost:1313/blog/en/tags/</loc>
+    <loc>https://helping-the-tortoise.github.io/blog/en/tags/</loc>
   </url>
 </urlset>

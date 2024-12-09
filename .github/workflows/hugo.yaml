@@ -5,7 +5,7 @@ on:
   # Runs on pushes targeting the default branch
   push:
     branches:
-      - master
+      - main
 
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
@@ -34,14 +34,15 @@ jobs:
     env:
       HUGO_VERSION: 0.137.3
     steps:
-  - name: Check Hugo Version
-    run: echo "Hugo version: $HUGO_VERSION"  # This will print the version to the logs
-
-  - name: Install Hugo CLI
-    run: |
-      wget -O ${{ runner.temp }}/hugo.deb https://github.com/gohugoio/hugo/releases/download/v${HUGO_VERSION}/hugo_extended_${HUGO_VERSION}_linux-amd64.deb \
-      && sudo dpkg -i ${{ runner.temp }}/hugo.deb
-          
+      # Check the value of HUGO_VERSION
+      - name: Check Hugo Version
+        run: echo "Hugo version: $HUGO_VERSION"
+      
+      # Install Hugo CLI
+      - name: Install Hugo CLI
+        run: |
+          wget -O ${{ runner.temp }}/hugo.deb https://github.com/gohugoio/hugo/releases/download/v${HUGO_VERSION}/hugo_extended_${HUGO_VERSION}_linux-amd64.deb \
+          && sudo dpkg -i ${{ runner.temp }}/hugo.deb          
       - name: Install Dart Sass
         run: sudo snap install dart-sass
       - name: Checkout
