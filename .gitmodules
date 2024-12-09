@@ -2,3 +2,7 @@
 	path = themes/hermit-v2
 	url = https://github.com/1bl4z3r/hermit-V2
 	branch = main
+[submodule "themes/hello-4s3ti"]
+	path = themes/hello-4s3ti
+	url = https://github.com/4s3ti/hugo-theme-hello-4s3ti.git
+	branch = master
